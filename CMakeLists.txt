@@ -14,6 +14,9 @@ add_message_files(
   ColorSpace.msg
   Config.msg
   Cpu.msg
+  Filesystem.msg
+  NetworkInterface.msg
+  Workload.msg
   FootPressure.msg
   JointCommand.msg
   JointTorque.msg
